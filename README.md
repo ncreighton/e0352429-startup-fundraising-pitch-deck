@@ -1,2 +1,26 @@
-# e0352429-startup-fundraising-pitch-deck
-A comprehensive Notion workspace for early-stage founders managing the fundraising process. Features an investor pipeline CRM with warm introduction tracking, a pitch deck version control library, term sheet comparison tables, data room document checklist with access control notes, cap table modeling worksheets, and a meeting notes database linked 
+# Startup Fundraising Pitch Deck and Investor CRM Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://wealthybot8.gumroad.com/l/zuswjo)**
+
